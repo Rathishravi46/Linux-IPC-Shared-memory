@@ -53,8 +53,8 @@ int main()
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/71c81896-01cc-4b81-8036-bc6370cc8185)
-
+![Alt text](image.png)
+![Alt text](image-1.png)
 
 
 
